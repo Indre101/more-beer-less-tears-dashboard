@@ -1,22 +1,38 @@
 {
   "files": {
-    "main.css": "/more-beer-less-tears-dashboard/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/more-beer-less-tears-dashboard/static/js/main.0f253f34.chunk.js",
-    "main.js.map": "/more-beer-less-tears-dashboard/static/js/main.0f253f34.chunk.js.map",
+    "main.css": "/more-beer-less-tears-dashboard/static/css/main.b4ad1595.chunk.css",
+    "main.js": "/more-beer-less-tears-dashboard/static/js/main.9fdefcbe.chunk.js",
+    "main.js.map": "/more-beer-less-tears-dashboard/static/js/main.9fdefcbe.chunk.js.map",
     "runtime-main.js": "/more-beer-less-tears-dashboard/static/js/runtime-main.996c3d17.js",
     "runtime-main.js.map": "/more-beer-less-tears-dashboard/static/js/runtime-main.996c3d17.js.map",
-    "static/js/2.e2e94ac5.chunk.js": "/more-beer-less-tears-dashboard/static/js/2.e2e94ac5.chunk.js",
-    "static/js/2.e2e94ac5.chunk.js.map": "/more-beer-less-tears-dashboard/static/js/2.e2e94ac5.chunk.js.map",
+    "static/js/2.17323397.chunk.js": "/more-beer-less-tears-dashboard/static/js/2.17323397.chunk.js",
+    "static/js/2.17323397.chunk.js.map": "/more-beer-less-tears-dashboard/static/js/2.17323397.chunk.js.map",
     "index.html": "/more-beer-less-tears-dashboard/index.html",
-    "precache-manifest.6942061ec6b4eeab4cf248661a99f254.js": "/more-beer-less-tears-dashboard/precache-manifest.6942061ec6b4eeab4cf248661a99f254.js",
+    "precache-manifest.b11db97e0bb3e89ab1bef3a9c17af52a.js": "/more-beer-less-tears-dashboard/precache-manifest.b11db97e0bb3e89ab1bef3a9c17af52a.js",
     "service-worker.js": "/more-beer-less-tears-dashboard/service-worker.js",
-    "static/css/main.27fd15f6.chunk.css.map": "/more-beer-less-tears-dashboard/static/css/main.27fd15f6.chunk.css.map",
-    "static/js/2.e2e94ac5.chunk.js.LICENSE.txt": "/more-beer-less-tears-dashboard/static/js/2.e2e94ac5.chunk.js.LICENSE.txt"
+    "static/css/main.b4ad1595.chunk.css.map": "/more-beer-less-tears-dashboard/static/css/main.b4ad1595.chunk.css.map",
+    "static/js/2.17323397.chunk.js.LICENSE.txt": "/more-beer-less-tears-dashboard/static/js/2.17323397.chunk.js.LICENSE.txt",
+    "static/media/bartenderDannie.png": "/more-beer-less-tears-dashboard/static/media/bartenderDannie.539720ca.png",
+    "static/media/elhefe.png": "/more-beer-less-tears-dashboard/static/media/elhefe.d313a8e9.png",
+    "static/media/fairytaleale.png": "/more-beer-less-tears-dashboard/static/media/fairytaleale.0588f679.png",
+    "static/media/githop.png": "/more-beer-less-tears-dashboard/static/media/githop.d5e3677b.png",
+    "static/media/hollabacklager.png": "/more-beer-less-tears-dashboard/static/media/hollabacklager.8c9ce1fd.png",
+    "static/media/hoppilyeverafter.png": "/more-beer-less-tears-dashboard/static/media/hoppilyeverafter.7eaa6d09.png",
+    "static/media/logo.png": "/more-beer-less-tears-dashboard/static/media/logo.ab259e64.png",
+    "static/media/mowintime.png": "/more-beer-less-tears-dashboard/static/media/mowintime.8198cc2a.png",
+    "static/media/orderReady.svg": "/more-beer-less-tears-dashboard/static/media/orderReady.ead3cba1.svg",
+    "static/media/popMessage.gif": "/more-beer-less-tears-dashboard/static/media/popMessage.e7eeff7a.gif",
+    "static/media/popMessage2.gif": "/more-beer-less-tears-dashboard/static/media/popMessage2.dc846c84.gif",
+    "static/media/popMessage3.gif": "/more-beer-less-tears-dashboard/static/media/popMessage3.dd663426.gif",
+    "static/media/row26.png": "/more-beer-less-tears-dashboard/static/media/row26.d2380875.png",
+    "static/media/ruinedchildhood.png": "/more-beer-less-tears-dashboard/static/media/ruinedchildhood.25b533b1.png",
+    "static/media/sleighride.png": "/more-beer-less-tears-dashboard/static/media/sleighride.f6fe9595.png",
+    "static/media/steampunk.png": "/more-beer-less-tears-dashboard/static/media/steampunk.e0499a3b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.996c3d17.js",
-    "static/js/2.e2e94ac5.chunk.js",
-    "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.0f253f34.chunk.js"
+    "static/js/2.17323397.chunk.js",
+    "static/css/main.b4ad1595.chunk.css",
+    "static/js/main.9fdefcbe.chunk.js"
   ]
 }

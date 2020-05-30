@@ -1,2 +1,0 @@
-(this["webpackJsonpmore-beer-less-tears-dashboard"]=this["webpackJsonpmore-beer-less-tears-dashboard"]||[]).push([[0],[,,,function(e,t,n){e.exports=n(10)},,,,,function(e,t,n){},function(e,t,n){},function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r),s=n(2),o=n.n(s);n(8),n(9);var c=function(){return a.a.createElement("div",{className:"App"},a.a.createElement("h1",null,"hi"))};o.a.render(a.a.createElement(a.a.StrictMode,null,a.a.createElement(c,null)),document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.0f253f34.chunk.js.map
