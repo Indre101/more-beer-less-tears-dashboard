@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/more-beer-less-tears-dashboard/static/css/main.ca291789.chunk.css",
-    "main.js": "/more-beer-less-tears-dashboard/static/js/main.563bad40.chunk.js",
-    "main.js.map": "/more-beer-less-tears-dashboard/static/js/main.563bad40.chunk.js.map",
+    "main.css": "/more-beer-less-tears-dashboard/static/css/main.d473935f.chunk.css",
+    "main.js": "/more-beer-less-tears-dashboard/static/js/main.06b02c53.chunk.js",
+    "main.js.map": "/more-beer-less-tears-dashboard/static/js/main.06b02c53.chunk.js.map",
     "runtime-main.js": "/more-beer-less-tears-dashboard/static/js/runtime-main.996c3d17.js",
     "runtime-main.js.map": "/more-beer-less-tears-dashboard/static/js/runtime-main.996c3d17.js.map",
     "static/js/2.d5a0e97c.chunk.js": "/more-beer-less-tears-dashboard/static/js/2.d5a0e97c.chunk.js",
     "static/js/2.d5a0e97c.chunk.js.map": "/more-beer-less-tears-dashboard/static/js/2.d5a0e97c.chunk.js.map",
     "index.html": "/more-beer-less-tears-dashboard/index.html",
-    "precache-manifest.2b739d212c37a1ec780a801564c0509d.js": "/more-beer-less-tears-dashboard/precache-manifest.2b739d212c37a1ec780a801564c0509d.js",
+    "precache-manifest.fdd2e161e872a02eeb9a2404b82cabf7.js": "/more-beer-less-tears-dashboard/precache-manifest.fdd2e161e872a02eeb9a2404b82cabf7.js",
     "service-worker.js": "/more-beer-less-tears-dashboard/service-worker.js",
-    "static/css/main.ca291789.chunk.css.map": "/more-beer-less-tears-dashboard/static/css/main.ca291789.chunk.css.map",
+    "static/css/main.d473935f.chunk.css.map": "/more-beer-less-tears-dashboard/static/css/main.d473935f.chunk.css.map",
     "static/js/2.d5a0e97c.chunk.js.LICENSE.txt": "/more-beer-less-tears-dashboard/static/js/2.d5a0e97c.chunk.js.LICENSE.txt",
     "static/media/bartenderDannie.png": "/more-beer-less-tears-dashboard/static/media/bartenderDannie.539720ca.png",
     "static/media/elhefe.png": "/more-beer-less-tears-dashboard/static/media/elhefe.d313a8e9.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.996c3d17.js",
     "static/js/2.d5a0e97c.chunk.js",
-    "static/css/main.ca291789.chunk.css",
-    "static/js/main.563bad40.chunk.js"
+    "static/css/main.d473935f.chunk.css",
+    "static/js/main.06b02c53.chunk.js"
   ]
 }
