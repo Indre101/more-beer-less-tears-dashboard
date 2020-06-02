@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a33864dcdec54cea5329223f33825a0",
+    "revision": "407cb76c88f23f8c5609269c3c73f818",
     "url": "/more-beer-less-tears-dashboard/index.html"
   },
   {
-    "revision": "a423e0e742ef66bacc8f",
-    "url": "/more-beer-less-tears-dashboard/static/css/main.c9391607.chunk.css"
+    "revision": "0a468f6bb963f2a05252",
+    "url": "/more-beer-less-tears-dashboard/static/css/main.ca291789.chunk.css"
   },
   {
-    "revision": "50fd0d0fa793a013551e",
-    "url": "/more-beer-less-tears-dashboard/static/js/2.17323397.chunk.js"
+    "revision": "37e6c271d966fd1300aa",
+    "url": "/more-beer-less-tears-dashboard/static/js/2.d5a0e97c.chunk.js"
   },
   {
     "revision": "da77398b950dba82b458e7a465483cb8",
-    "url": "/more-beer-less-tears-dashboard/static/js/2.17323397.chunk.js.LICENSE.txt"
+    "url": "/more-beer-less-tears-dashboard/static/js/2.d5a0e97c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a423e0e742ef66bacc8f",
-    "url": "/more-beer-less-tears-dashboard/static/js/main.9fdefcbe.chunk.js"
+    "revision": "0a468f6bb963f2a05252",
+    "url": "/more-beer-less-tears-dashboard/static/js/main.563bad40.chunk.js"
   },
   {
     "revision": "cd579f6ae5a42e358f28",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7eaa6d0987fff977cb224369d7fc7017",
     "url": "/more-beer-less-tears-dashboard/static/media/hoppilyeverafter.7eaa6d09.png"
-  },
-  {
-    "revision": "ab259e648d15c30de40a867417f5897e",
-    "url": "/more-beer-less-tears-dashboard/static/media/logo.ab259e64.png"
   },
   {
     "revision": "8198cc2ade4dc655153327c0f92634c0",
