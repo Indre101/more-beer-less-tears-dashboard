@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/more-beer-less-tears-dashboard/static/css/main.0868d315.chunk.css",
+    "main.css": "/more-beer-less-tears-dashboard/static/css/main.57a65e32.chunk.css",
     "main.js": "/more-beer-less-tears-dashboard/static/js/main.4de5cd0e.chunk.js",
     "main.js.map": "/more-beer-less-tears-dashboard/static/js/main.4de5cd0e.chunk.js.map",
     "runtime-main.js": "/more-beer-less-tears-dashboard/static/js/runtime-main.996c3d17.js",
@@ -8,9 +8,9 @@
     "static/js/2.6346b31d.chunk.js": "/more-beer-less-tears-dashboard/static/js/2.6346b31d.chunk.js",
     "static/js/2.6346b31d.chunk.js.map": "/more-beer-less-tears-dashboard/static/js/2.6346b31d.chunk.js.map",
     "index.html": "/more-beer-less-tears-dashboard/index.html",
-    "precache-manifest.ebdd6431df0922013409b9b1ff80158d.js": "/more-beer-less-tears-dashboard/precache-manifest.ebdd6431df0922013409b9b1ff80158d.js",
+    "precache-manifest.7bb9909263de7b5681eee0bd6a8e4987.js": "/more-beer-less-tears-dashboard/precache-manifest.7bb9909263de7b5681eee0bd6a8e4987.js",
     "service-worker.js": "/more-beer-less-tears-dashboard/service-worker.js",
-    "static/css/main.0868d315.chunk.css.map": "/more-beer-less-tears-dashboard/static/css/main.0868d315.chunk.css.map",
+    "static/css/main.57a65e32.chunk.css.map": "/more-beer-less-tears-dashboard/static/css/main.57a65e32.chunk.css.map",
     "static/js/2.6346b31d.chunk.js.LICENSE.txt": "/more-beer-less-tears-dashboard/static/js/2.6346b31d.chunk.js.LICENSE.txt",
     "static/media/bartenderDannie.png": "/more-beer-less-tears-dashboard/static/media/bartenderDannie.539720ca.png",
     "static/media/elhefe.png": "/more-beer-less-tears-dashboard/static/media/elhefe.d313a8e9.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.996c3d17.js",
     "static/js/2.6346b31d.chunk.js",
-    "static/css/main.0868d315.chunk.css",
+    "static/css/main.57a65e32.chunk.css",
     "static/js/main.4de5cd0e.chunk.js"
   ]
 }
